@@ -1,0 +1,10 @@
+d:\React\react-native\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+d:\React\react-native\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+d:\React\react-native\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+d:\React\react-native\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+d:\React\react-native\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+d:\React\react-native\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+d:\React\react-native\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+d:\React\react-native\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+d:\React\react-native\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+d:\React\react-native\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
