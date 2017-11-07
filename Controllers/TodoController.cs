@@ -16,6 +16,7 @@ namespace TodoApi.Controllers
                 new TodoItem{Id=1,Name="Item 1",IsComplete=false},
                 new TodoItem{Id=2,Name="Item 2",IsComplete=false},
                 new TodoItem{Id=3,Name="Item 3",IsComplete=true},
+                new TodoItem{Id=4,Name="Item 4",IsComplete=true},
             };
             
             return items;
